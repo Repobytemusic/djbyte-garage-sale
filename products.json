@@ -1,0 +1,208 @@
+[
+  {
+    "key": "technics",
+    "name": "Tornamesas Technics SL-1210 M5G — pack completo",
+    "cat": "Tornamesas",
+    "price": 3000000,
+    "desc": "Par de Technics SL-1210 M5G comprados nuevos y usados solo en mi estudio. Pack completo: las dos tornamesas, sus power cases y cápsulas Ortofon × Reloop (edición en colaboración). Impecables, listas para tocar.",
+    "images": [
+      "img/technics-1.webp",
+      "img/technics-2.webp",
+      "img/technics-3.webp",
+      "img/technics-4.webp",
+      "img/technics-5.webp"
+    ]
+  },
+  {
+    "key": "hedd",
+    "name": "Monitores HEDD Type 20 (único dueño)",
+    "cat": "Monitores",
+    "price": 2600000,
+    "desc": "Monitores de estudio profesionales, en su caja, usados solo en estudio personal. Tienen marcas estéticas (estaban en muestra en la tienda donde los compré). Funcionan impecables.",
+    "images": [
+      "img/hedd-1.webp",
+      "img/hedd-2.webp",
+      "img/hedd-3.webp"
+    ]
+  },
+  {
+    "key": "reloop-elite",
+    "name": "Reloop Mixer ELITE (con caja)",
+    "cat": "DJ / Mixers",
+    "price": 1450000,
+    "desc": "Mixer profesional de batalla, usado solo en estudio, impecable y con caja original.",
+    "images": [
+      "img/reloop-elite-1.webp",
+      "img/reloop-elite-2.webp",
+      "img/reloop-elite-3.webp",
+      "img/reloop-elite-4.webp",
+      "img/reloop-elite-5.webp",
+      "img/reloop-elite-6.webp"
+    ]
+  },
+  {
+    "key": "focal",
+    "name": "Monitores Focal CMS 50 + CMS Sub (sin caja)",
+    "cat": "Audio / Estudio",
+    "price": 1390000,
+    "desc": "Set de monitores de referencia con subwoofer CMS Sub. Sonido de estudio, cero ruido, usados solo en entorno controlado.",
+    "images": [
+      "img/focal-1.webp",
+      "img/focal-2.webp",
+      "img/focal-3.webp",
+      "img/focal-4.webp",
+      "img/focal-5.webp",
+      "img/focal-6.webp",
+      "img/focal-7.webp"
+    ]
+  },
+  {
+    "key": "mixon8",
+    "name": "Reloop MIXON 8 (con caja)",
+    "cat": "DJ / Controladoras",
+    "price": 1150000,
+    "desc": "Controladora híbrida para Serato y Rekordbox. Como nueva, usada solo en casa para práctica.",
+    "images": [
+      "img/mixon8-1.webp",
+      "img/mixon8-2.webp",
+      "img/mixon8-3.webp",
+      "img/mixon8-4.webp",
+      "img/mixon8-5.webp",
+      "img/mixon8-6.webp"
+    ]
+  },
+  {
+    "key": "ortofon",
+    "name": "Cápsulas Ortofon Concorde Blue x2 con case",
+    "cat": "DJ / Accesorios",
+    "price": 340000,
+    "desc": "Par de agujas Ortofon Concorde Blue con estuche rígido. Cuidadas, ideales para tornamesistas exigentes.",
+    "images": [
+      "img/ortofon-1.webp",
+      "img/ortofon-2.webp",
+      "img/ortofon-3.webp",
+      "img/ortofon-4.webp",
+      "img/ortofon-5.webp",
+      "img/ortofon-6.webp",
+      "img/ortofon-7.webp"
+    ]
+  },
+  {
+    "key": "rode",
+    "name": "Micrófono Rode NT1 + accesorios + Vocal Booth",
+    "cat": "Audio / Estudio",
+    "price": 290000,
+    "desc": "Condensador de estudio con todos sus accesorios. Grabaciones limpias, usado solo en vocal booth doméstico.",
+    "images": [
+      "img/rode-1.webp",
+      "img/rode-2.webp",
+      "img/rode-3.webp",
+      "img/rode-4.webp"
+    ]
+  },
+  {
+    "key": "sl4",
+    "name": "Interfaz USB Serato SL4 (sin caja)",
+    "cat": "DJ / Interfaces",
+    "price": 290000,
+    "desc": "Interfaz profesional Serato SL4. Equipo clásico, en perfecto funcionamiento.",
+    "images": [
+      "img/sl4-1.webp",
+      "img/sl4-2.webp",
+      "img/sl4-3.webp",
+      "img/sl4-4.webp",
+      "img/sl4-5.webp",
+      "img/sl4-6.webp",
+      "img/sl4-7.webp"
+    ]
+  },
+  {
+    "key": "a5100",
+    "name": "Cámara Sony A5100 (sin lente)",
+    "cat": "Cámaras / Video",
+    "price": 280000,
+    "desc": "Mirrorless compacta, cuerpo impecable. Usada pocas veces para grabar contenido en estudio.",
+    "images": [
+      "img/a5100-1.webp",
+      "img/a5100-2.webp",
+      "img/a5100-3.webp",
+      "img/a5100-4.webp",
+      "img/a5100-5.webp",
+      "img/a5100-6.webp"
+    ]
+  },
+  {
+    "key": "iphonex",
+    "name": "iPhone X 256 GB color blanco",
+    "cat": "Computación",
+    "price": 230000,
+    "desc": "256 GB, color plata/blanco, pantalla impecable, batería en buen estado.",
+    "images": [
+      "img/iphonex-1.webp",
+      "img/iphonex-2.webp"
+    ]
+  },
+  {
+    "key": "boya",
+    "name": "Micrófono inalámbrico BOYA BY-WM6S",
+    "cat": "Audio / Estudio",
+    "price": 170000,
+    "desc": "Set de micrófonos inalámbricos dual. Funciona perfecto, usado solo en interiores.",
+    "images": [
+      "img/boya-1.webp",
+      "img/boya-2.webp",
+      "img/boya-3.webp",
+      "img/boya-4.webp",
+      "img/boya-5.webp"
+    ]
+  },
+  {
+    "key": "kboard",
+    "name": "Keith McMillen K-Board Smart Keyboard",
+    "cat": "Producción",
+    "price": 120000,
+    "desc": "Mini teclado MIDI ultra compacto. Perfecto para producir en movilidad, con caja original.",
+    "images": [
+      "img/kboard-1.webp",
+      "img/kboard-2.webp",
+      "img/kboard-3.webp",
+      "img/kboard-4.webp",
+      "img/kboard-5.webp"
+    ]
+  },
+  {
+    "key": "avermedia",
+    "name": "Avermedia Live Gamer Mini",
+    "cat": "Cámaras / Video",
+    "price": 55000,
+    "desc": "Capturadora USB para streaming en excelente estado.",
+    "images": [
+      "img/avermedia-1.webp",
+      "img/avermedia-2.webp"
+    ]
+  },
+  {
+    "key": "gopro",
+    "name": "Arnés de pecho para GoPro",
+    "cat": "Cámaras / Video",
+    "price": 25000,
+    "desc": "Arnés original compatible con GoPro, usado una sola vez.",
+    "images": [
+      "img/gopro-1.webp",
+      "img/gopro-2.webp",
+      "img/gopro-3.webp"
+    ]
+  },
+  {
+    "key": "hdmi",
+    "name": "HDMI 1x2 Splitter 4K2K",
+    "cat": "Cámaras / Video",
+    "price": 12000,
+    "desc": "Divisor HDMI 4K, usado, funcionando perfectamente.",
+    "images": [
+      "img/hdmi-1.webp",
+      "img/hdmi-2.webp",
+      "img/hdmi-3.webp"
+    ]
+  }
+]
